@@ -1,6 +1,6 @@
 # Contrast-Map-Ascii-Art-Gen
 
-=======================
+==============
 An ascii art generator that prioritizes areas of high contrast over simply replacing values by generating two ascii art 'images' and combining them based on an edge detection algorithm. Written in Python 3.6 with Numpy, OpenCV2, and some other standard libraries
 
 Licensing
